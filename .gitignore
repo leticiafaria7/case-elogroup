@@ -131,3 +131,7 @@ dmypy.json
 # bases de dados
 *.csv
 *.xlsx
+
+# arquivos salvos
+*.html
+*.png
